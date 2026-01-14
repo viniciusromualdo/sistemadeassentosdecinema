@@ -1,0 +1,1 @@
+Projeto em Java que simula um backend de um sistema de venda de ingressos de cinema
